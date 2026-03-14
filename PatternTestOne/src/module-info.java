@@ -4,5 +4,5 @@
 /**
  * 
  */
-module DesignPatternTestOne {
+module PatternTestOne {
 }
